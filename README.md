@@ -22,7 +22,6 @@ This is a simple login application built using React Native. The app allows user
    git clone https://github.com/yourusername/your-repo-name.git
 
 ### 5. Usage Section
-Yahaan app ke usage instructions dein:
 
 ```markdown
 ## Usage
